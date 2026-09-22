@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1952-three-divisors) |
 | [2652-sum-multiples](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2739-total-distance-traveled) |
 ## String
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1952-three-divisors) |
+## Simulation
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
