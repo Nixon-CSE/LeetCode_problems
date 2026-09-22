@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
+| [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
