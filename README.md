@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
+| [0412-fizz-buzz](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2427-number-of-common-factors) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [2739-total-distance-traveled](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2739-total-distance-traveled) |
 ## Euclidean Algorithm
 |  |
