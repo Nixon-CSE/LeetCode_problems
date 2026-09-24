@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2427-number-of-common-factors) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
