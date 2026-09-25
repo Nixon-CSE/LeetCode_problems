@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2739-total-distance-traveled) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## String
 |  |
 | ------- |
