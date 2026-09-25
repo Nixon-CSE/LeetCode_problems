@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/1952-three-divisors) |
@@ -71,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nixon-CSE/LeetCode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
